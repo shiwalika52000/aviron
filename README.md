@@ -1,6 +1,6 @@
 # Aviron Construction - Building Excellence
 
-Welcome to the official repository for **Aviron Construction**, a leading construction company specializing in residential, commercial, and industrial projects. Our website is designed to showcase the quality of our work, our services, and our dedication to delivering exceptional results for clients across various sectors.
+Welcome to the official repository for **Aviron Construction**, a leading construction company specializing in residential, commercial, and industrial projects. This website is designed to showcase the quality of  work, services, and dedication to delivering exceptional results for clients across various sectors.
 
 Visit the live website here: [Aviron Construction - https://aviron.co.nz/](https://aviron.co.nz/)
 
